@@ -1,4 +1,4 @@
-//数据
+﻿//数据
 var data = [
 	{
 		'name'	:	'前端',
@@ -115,7 +115,7 @@ var data = [
 			},
 			{
 				'title'	:	'页面前端工程师',
-				'company'	:	'杭州xxxx管理有限公司 ',
+				'company'	:	'杭州xxxx管理上市有限公司 ',
 				'position'	:	'前端页面',
 				'recruitingNumbers'	:	'4人',
 				'workingLocation'	:	'杭州',
